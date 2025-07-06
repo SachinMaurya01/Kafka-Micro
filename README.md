@@ -1,4 +1,4 @@
-# start project in docker
+# Docker Commands:- 
     -> docker compose up ( To start container in docker )
     -> docker ps ( Lists running containers )
     -> docker start <container_name>
